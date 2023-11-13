@@ -1,0 +1,56 @@
+[
+  {
+    "objId": 1,
+    "_id": "CS5010",
+    "name": "CS5010 Programming Design Paradigm",
+    "number": "202410_2",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "objId": 2,
+    "_id": "CS5610",
+    "name": "CS5610 Web Development",
+    "number": "1150_202410_2",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "objId": 3,
+    "_id": "RS101",
+    "name": "Rocket Propulsion",
+    "number": "RS4550",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "objId": 4,
+    "_id": "RS102",
+    "name": "Aerodynamics",
+    "number": "RS4560",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "objId": 5,
+    "_id": "RS103",
+    "name": "Spacecraft Design",
+    "number": "RS4570",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  {
+    "endDate": "2023-12-15",
+    "name": "Music theory",
+    "number": "12345",
+    "objId": 6,
+    "startDate": "2023-09-10",
+    "term": "202410_2 Fall 2023 Semester Full Term",
+    "_id": "rs1040"
+  }
+]

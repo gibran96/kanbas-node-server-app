@@ -1,0 +1,313 @@
+[
+  {
+    "_id": "CS5610.202410",
+    "course": "CS5610",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRO",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Introduction to the course",
+              "What is Web Development",
+              "Creating a development environment",
+              "Creating a Web Application",
+              "Getting started with the first assignment"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - HTML",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Learn how to create user interfaces with HTML",
+              "Keep working on assignment 1",
+              "Deploy the assignment to Netlify"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1",
+              "Slides for Week 2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "CS5010.202410",
+    "course": "CS5010",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRO",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Object Oriented Programming",
+              "Introduction to Java",
+              "Creating a development environment"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - Abstraction",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Abstraction in Java",
+              "Polymorphism",
+              "Inheritance",
+              "Interfaces",
+              "Abstract Classes"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1",
+              "Slides for Week 2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "RS101.202410",
+    "course": "RS101",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRO",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Rocket propulsion",
+              "Introduction to Rocket Science",
+              "Jet fuel"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - HTML",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Fuel and Combustion I",
+              "Fuel and Combustion II",
+              "Fuel and Combustion III"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1",
+              "Slides for Week 2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "RS102.202410",
+    "course": "RS102",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRO",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Aerodynamics",
+              "Nozzle design",
+              "Laminar flow",
+              "Getting started with the first assignment"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - HTML",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Introduction to Aerodynamics",
+              "Introduction to Rocket Science",
+              "Nozzle design",
+              "Escape velocity",
+              "Landing"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1",
+              "Slides for Week 2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "RS103.202410",
+    "course": "RS103",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRO",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Orbital mechanics",
+              "Spacecraft propulsion"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - HTML",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Subsonic and supersonic flight",
+              "Orbital mechanics",
+              "Aerodynamic heating"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Read Chapter 0 of the text book",
+              "Read Chapter 1 of the text book"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Slides for Week 0",
+              "Slides for Week 1",
+              "Slides for Week 2"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

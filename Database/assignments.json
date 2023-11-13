@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "description": "",
+    "points": "",
+    "due": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A401",
+    "course": "CS5610",
+    "title": "A1 SETUP",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A402",
+    "course": "CS5610",
+    "title": "A2 HTML",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A403",
+    "course": "CS5610",
+    "title": "A3 CSS",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A404",
+    "course": "CS5610",
+    "title": "A4 BOOTSTRAP",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A405",
+    "course": "CS5610",
+    "title": "A5 JAVASCRIPT",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A406",
+    "course": "CS5610",
+    "title": "A6 REACT",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A501",
+    "course": "CS5010",
+    "title": "A1 OOP",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A502",
+    "course": "CS5010",
+    "title": "A2 ABSTRACTION",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A503",
+    "course": "CS5010",
+    "title": "A3 DOUBLE DISPATCH",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A504",
+    "course": "CS5010",
+    "title": "A4 POOL TABLE",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A505",
+    "course": "CS5010",
+    "title": "A5 LINKED LISTS",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  },
+  {
+    "_id": "A506",
+    "course": "CS5010",
+    "title": "A6 SHAPES",
+    "description": "Week 0 - SETUP Week starting on Monday, September 4th (9/5/2023) Module |",
+    "due": "",
+    "points": "",
+    "availableFrom": "",
+    "availableTo": ""
+  }
+]
