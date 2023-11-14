@@ -8,7 +8,6 @@ import "dotenv/config.js";
 import AssignmentsRoutes from "./Kanbas/Assignments/routes.js";
 
 const app = express();
-console.log(process.env.FRONTEND_URL);
 app.use(cors({
   credentials: true,
   origin: [process.env.FRONTEND_URL, "http://localhost:3000"]
@@ -20,4 +19,6 @@ Lab5(app);
 HelloRoutes(app);
 ModuleRoutes(app);
 AssignmentsRoutes(app);
-app.listen(process.env.port || 4000);
+app.listen(process.env.port || 4000, () => {
+  console.log("Server is running...");
+});
