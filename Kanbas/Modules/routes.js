@@ -61,12 +61,12 @@ function ModuleRoutes(app) {
       if (module._id === mid) {
         return {
           ...module,
-          weeks: module.weeks.map((week, weekIndex) => {
-            if (weekIndex === index) {
-              return req.body;
-            }
-            return week;
-          })
+          weeks: [
+            ...module.weeks.slice(0, index),
+            req.body,
+            ...module.weeks.slice(index + 1),
+
+          ]
         }
       }
       return module;
