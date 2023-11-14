@@ -29,7 +29,7 @@ function CourseRoutes(app) {
     const id = req.params.id;
     const course = req.body;
     Database.courses = Database.courses.map(
-        (c) => course._id === id ? {c, ...course} : c);
+        (c) => c.objId === course.objId ? course : c);
     res.sendStatus(204);
   });
 }
