@@ -14,6 +14,7 @@ import {MongoClient, ServerApiVersion} from "mongodb";
 //mongoose.connect("mongodb://localhost:27017/kanbas");
 const dbUrl = process.env.DB_CONNECTION_STRING
     || "mongodb://localhost:27017/kanbas";
+console.log("Connecting to: ", dbUrl);
 mongoose.connect(dbUrl);
 const app = express();
 app.use(cors({
