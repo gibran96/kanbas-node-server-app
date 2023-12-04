@@ -22,7 +22,7 @@ function UserRoutes(app) {
     const {userId} = req.params;
     const status = await dao.updateUser(userId, req.body);
     const currentUser = await dao.findUserById(userId);
-    req.session["currentUser"] = currentUser;
+    req.session['currentUser'] = currentUser;
     res.json(currentUser);
   };
   const signup = async (req, res) => {
@@ -32,7 +32,7 @@ function UserRoutes(app) {
       return;
     }
     const currentUser = await dao.createUser(req.body);
-    req.session["currentUser"] = currentUser;
+    req.session['currentUser'] = currentUser;
     res.json(currentUser);
   };
   const signIn = async (req, res) => {
@@ -44,7 +44,7 @@ function UserRoutes(app) {
       res.status(400).json({message: "Invalid credentials"});
       return;
     }
-    req.session["currentUser"] = currentUser;
+    req.session['currentUser'] = currentUser;
     res.json(currentUser);
   };
   const signOut = (req, res) => {
@@ -52,8 +52,8 @@ function UserRoutes(app) {
     res.sendStatus(200);
   };
   const account = async (req, res) => {
-    console.log("Current user: ", req.session["currentUser"]);
-    res.json(req.session["currentUser"]);
+    console.log("Current user: ", req.session['currentUser']);
+    res.json(req.session['currentUser']);
   };
 
   app.post("/api/users", createUser);
