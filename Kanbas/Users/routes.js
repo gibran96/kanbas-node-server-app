@@ -52,6 +52,7 @@ function UserRoutes(app) {
     res.sendStatus(200);
   };
   const account = async (req, res) => {
+    console.log("Current user: ", req.session["currentUser"]);
     res.json(req.session["currentUser"]);
   };
 
